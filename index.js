@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Używa Cardbota","Snajpi karty"];
+const statusMessages = ["Używa Cardbot Extreme","Snajpi karty"];
 
 
 let currentIndex = 0;
